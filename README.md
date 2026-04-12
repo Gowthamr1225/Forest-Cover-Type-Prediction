@@ -1,5 +1,13 @@
-# Forest-Cover-Type-Prediction
-EcoType : Forest Cover Type Prediction Using Machine Learning
+# EcoType : Forest Cover Type Prediction Using Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen.svg)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.0-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)
+![Pickle](https://img.shields.io/badge/Pickle-Serialization-green.svg)
+![Hyperparameter Tuning](https://img.shields.io/badge/ML-Hyperparameter%20Tuning-orange.svg)
+![Web App](https://img.shields.io/badge/Deployment-Streamlit-red.svg)
 
 
 # Machine Learning Pipeline / 📚 Skills Take Away
