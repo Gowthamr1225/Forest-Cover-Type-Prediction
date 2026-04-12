@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-2.4.0-blue.svg)
+![Label Encoding](https://img.shields.io/badge/ML-Label%20Encoding-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)
 ![Pickle](https://img.shields.io/badge/Pickle-Serialization-green.svg)
 ![Hyperparameter Tuning](https://img.shields.io/badge/ML-Hyperparameter%20Tuning-orange.svg)
